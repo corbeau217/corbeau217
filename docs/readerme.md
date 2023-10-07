@@ -16,6 +16,7 @@
     <li><code>[07/10/2023][16:10] >> </code><i>began changing over to my details</i></li>
     <li><code>[07/10/2023][18:26] >> </code><i>finished changing over</i></li>
     <li><code>[07/10/2023][18:33] >> </code><i>formatting updates</i></li>
+    <li><code>[07/10/2023][18:37] >> </code><i>why are badges a link?!</i></li>
   </ul>
 <!--
 </details>
