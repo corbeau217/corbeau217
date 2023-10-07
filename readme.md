@@ -11,19 +11,24 @@
 </p>
 
 
-<!-- <a href="https://komarev.com/ghpvc/?username=corbeau217">
-  <img align="right" src="https://komarev.com/ghpvc/?username=corbeau217&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a> -->
+<a href="https://komarev.com/ghpvc/?username=corbeau217">
+  <img align="right" src="https://komarev.com/ghpvc/?username=corbeau217&label=Visitors&color=fc6610&style=for-the-badge" alt="Profile visitor" />
+</a>
 
+[![wakatime](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg)](https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437)
 
-[![wakatime](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg)](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437)
+<a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437"><img src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg" alt="Total time coded since Oct 7 2023" /></a>
+
+<!-- [![wakatime](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg)](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437) -->
+<!-- [![wakatime](https://wakatime.com/share/@corbeau217/d7a663d4-4cdd-4814-b30e-4ba29a405a5e.svg)](https://wakatime.com/badge/user/d7a663d4-4cdd-4814-b30e-4ba29a405a5e) -->
+<!-- [![wakatime](https://wakatime.com/share/@corbeau217/c8d0504c-0b5e-4748-b92b-a976a10e6e8d.svg)](https://wakatime.com/share/@corbeau217/c8d0504c-0b5e-4748-b92b-a976a10e6e8d) -->
 
 <!-- [![wakatime](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437/project/018b08b8-309e-4f19-a3f1-4d195764e35d.svg)](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437/project/018b08b8-309e-4f19-a3f1-4d195764e35d) -->
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://corbeau217.github.com">Corbeau217 / Aurora</a></b>
+                <b><a target="_blank" href="https://corbeau217.github.io">Corbeau217 / Aurora</a></b>
         </samp>
 </h3>
 
@@ -37,15 +42,20 @@
   </samp>
 </p>
 
+<!-- 
+oranges:
+  f05e16
+  ff6610
+-->
 <p align="center">
  <!-- <a href="https://corbeau217.github.io" target="blank">
   <img src="https://img.shields.io/badge/website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="corbeau217" />
  </a> -->
  <a href="https://linkedin.com/in/auroragriffith95" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="corbeau217"/>
+  <img src="https://img.shields.io/badge/LinkedIn-f05e16?style=for-the-badge&logo=linkedin&logoColor=white" alt="corbeau217"/>
  </a>
  <a href="https://twitter.com/corbeau217" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-f05e16?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <!-- dont have this -->
  <!-- <a href="https://dev.to/corbeau217" target="_blank">
@@ -78,7 +88,7 @@
 
 ## Use To Code
 
-![Macbook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Macbook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2019-f05e16?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
