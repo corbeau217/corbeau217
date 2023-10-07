@@ -5,7 +5,7 @@
 </h2>
 -->
 
-<table align="center" width="90%">
+<table align="center" width="80%">
   <tr align="center">
     <td align="center">
       <a href="https://github.com/corbeau217">
@@ -17,14 +17,14 @@
     <td align="center">
       <table align="center">
         <tr align="center">
-          <td width="40%">
+          <td align="center">
             <a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437">
               <img src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg?style=for-the-badge&color=f05e16&labelColor=f05e16" alt="Total time coded since Oct 7 2023" />
             </a>
           </td>
-          <td width="20%">
+          <td align="center">
           </td>
-          <td width="40%">
+          <td align="center">
             <a href="https://komarev.com/ghpvc/?username=corbeau217">
               <img src="https://komarev.com/ghpvc/?username=corbeau217&label=clicker%20counter&color=007ec6&style=for-the-badge" alt="Profile visitor" />
             </a>
@@ -190,13 +190,13 @@
   </tr>
   <tr align="center">
     <td align="center">
-      <img src="./assets/3dcoolerstats.gif" max-height="500"/>
+      <img src="./assets/3dcoolerstats.gif" width="80%"/>
     </td>
   </tr>
   <tr align="center">
     <td align="center">
       <a href="https://github.com/corbeau217">
-        <img alt="corbeau217's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=corbeau217&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="99%"/>
+        <img alt="corbeau217's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=corbeau217&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="99%"/>
       </a>
     </td>
   </tr>
