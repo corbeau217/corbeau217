@@ -84,27 +84,39 @@
 </table>
 <hr /><!-- ---------------------------- -->
 <br />
-<p align="center">
-  <img src="./assets/sunrisewindow.gif"/>
-</p>
 
 <h2>Stuff I use</h2>
 
-<p align="center">
-  <samp>
-    laptop:<br/>
-    <img src="https://img.shields.io/badge/macos-MacBook_Pro_2019-f05e16?style=for-the-badge&logo=apple&logoColor=white"/>
-  </samp>
-</p>
-<hr />
-<p align="center">
-  fav languages:<br/>
-  <samp>
-    <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=scala&logoColor=white"/>
-  </samp>
-</p>
+<table width="95%" align="center">
+  <tr>
+    <td width="30%" align="center">
+      <samp>
+        laptop:<br/>
+        <img src="https://img.shields.io/badge/macos-MacBook_Pro_2019-f05e16?style=for-the-badge&logo=apple&logoColor=white"/>
+      </samp>
+    </td>
+    <td width="30%" align="center">
+      <samp>
+        fav languages:<br/>
+        <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=scala&logoColor=white"/>
+      </samp>
+    </td>
+    <td width="30%" align="center">
+      <samp>
+        platforms:<br />
+        <img src="https://img.shields.io/badge/Android-ff4500?style=for-the-badge&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/iOS-ff4500?style=for-the-badge&logo=ios&logoColor=white"/>
+        <img src="https://img.shields.io/badge/macos-ff4500?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+        <img src="https://img.shields.io/badge/Ubuntu-ff4500?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/7/8.1/10-ff4500?style=for-the-badge&logo=windows&logoColor=white"/>
+        <img src="https://img.shields.io/badge/95-ff4500?style=for-the-badge&logo=windows95&logoColor=white"/>
+        <img src="https://img.shields.io/badge/xp-ff4500?style=for-the-badge&logo=windowsxp&logoColor=white"/>
+      </samp>
+    </td>
+  </tr>
+</table>
 <hr />
 <p align="center">
   <samp>
@@ -132,19 +144,6 @@
     <img src="https://img.shields.io/badge/SAP-f05e16?style=for-the-badge&logo=sap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Trello-f05e16.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/VSCode-f05e16?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  </samp>
-</p>
-<hr />
-<p align="center">
-  platforms:<br />
-  <samp>
-    <img src="https://img.shields.io/badge/Android-ff4500?style=for-the-badge&logo=android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/iOS-ff4500?style=for-the-badge&logo=ios&logoColor=white"/>
-    <img src="https://img.shields.io/badge/macos-ff4500?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
-    <img src="https://img.shields.io/badge/Ubuntu-ff4500?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/7/8.1/10-ff4500?style=for-the-badge&logo=windows&logoColor=white"/>
-    <img src="https://img.shields.io/badge/95-ff4500?style=for-the-badge&logo=windows95&logoColor=white"/>
-    <img src="https://img.shields.io/badge/xp-ff4500?style=for-the-badge&logo=windowsxp&logoColor=white"/>
   </samp>
 </p>
 </br>
@@ -214,6 +213,9 @@ themes:
 <hr /><!-- ---------------------------- -->
 <br />
 <br />
+<p align="center">
+  <img src="./assets/sunrisewindow.gif"/>
+</p>
 <br />
 <br />
 
