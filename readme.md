@@ -5,107 +5,89 @@
 </h2>
 -->
 
-<p align="center">
-  <!-- banner -->
-  <a href="https://github.com/corbeau217">
-    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=corbeau217&width=650&height=150">
-  </a>
-  <br/>
-  <!-- banner badges-->
-  <a href="https://komarev.com/ghpvc/?username=corbeau217">
-    <img align="right" src="https://komarev.com/ghpvc/?username=corbeau217&label=clicker%20counter&color=007ec6&style=for-the-badge" alt="Profile visitor" />
-  </a>
-  <!-- angery, wont let me change the colour -->
-  <a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437">
-    <img align="left" src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg?style=for-the-badge&color=f05e16&labelColor=f05e16" alt="Total time coded since Oct 7 2023" />
-  </a>
-</p>
-<hr /><!-- ---------------------------- -->
-<p  align="center">
-  <!-- typer scripter -->
-  <a href="https://github.com/corbeau217">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=300&pause=1000&color=ff4500&center=true&width=520&lines=obsessed+with+systems%20%2F%20low+level+code;how+do+I+purchase+extra+time?">
-  </a>
-</p>
-<hr /><!-- ---------------------------- -->
-<br />
-<br />
-
-<!-- About Section -->
-<h1>About me</h1>
-<p align="center">
-  <samp>
-    <!-- <a href="https://www.google.com/search?q=Aurora+Griffith">「 Google Me 」</a> -->
-    <br>
-    Software Engineering student in <b>Sydney AUS</b>
-    <br>
-    They / Them
-  </samp>
-</p>
-
-<p align="center">
- <!-- <a href="https://corbeau217.github.io" target="blank">
-  <img src="https://img.shields.io/badge/website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="corbeau217" />
- </a> -->
- <a href="https://linkedin.com/in/auroragriffith95" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-f05e16?style=for-the-badge&logo=linkedin&logoColor=white" alt="corbeau217"/>
- </a>
- <a href="https://twitter.com/corbeau217" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-f05e16?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
-</p>
-<!--
-  try this thingy: https://github.com/bradysheridan/spotify-activity-listener/tree/master
-  probably can https://www.last.fm/api/account/create
-  with cloudflare??
-  or https://github.com/VinuXD/Spotify-ReadMe
-  heroku is icky and wants bank card details
-  nice try heroku
-  https://developer.spotify.com/dashboard/create
--->
-<!--
-  another: https://github.com/Gust4Oliveira/Last.fm-Discord-Rich-Presence
--->
-
-
-<table width="100%" align="center">
+<table align="center">
+  <tr align="center">
+    <td>
+      <a href="https://github.com/corbeau217">
+        <img src="https://svg-banners.vercel.app/api?type=glitch&text1=corbeau217&width=650&height=150">
+      </a>
+    </td>
+  </tr>
   <tr>
-    <td width="70%">
+    <td>
+      <table>
+        <tr>
+          <td width="40%">
+            <a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437">
+              <img src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg?style=for-the-badge&color=f05e16&labelColor=f05e16" alt="Total time coded since Oct 7 2023" />
+            </a>
+          </td>
+          <td width="20%">
+          </td>
+          <td width="40%">
+            <a href="https://komarev.com/ghpvc/?username=corbeau217">
+              <img src="https://komarev.com/ghpvc/?username=corbeau217&label=clicker%20counter&color=007ec6&style=for-the-badge" alt="Profile visitor" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/corbeau217">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=300&pause=1000&color=ff4500&center=true&width=520&lines=obsessed+with+systems%20%2F%20low+level+code;how+do+I+purchase+extra+time?">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table width="100%" align="center">
+        <tr>
+          <td width="70%" align="center">
+            <samp>
+              <!-- <a href="https://www.google.com/search?q=Aurora+Griffith">「 Google Me 」</a> -->
+              <br>
+              Software Engineering student in <b>Sydney AUS</b>
+              <br>
+              <br>
+              They / Them
+              <br>
+              <br>
+              <a href="https://linkedin.com/in/auroragriffith95" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-f05e16?style=for-the-badge&logo=linkedin&logoColor=white" alt="corbeau217"/>
+              </a>
+              <a href="https://twitter.com/corbeau217" target="_blank">
+                <img src="https://img.shields.io/badge/Twitter-f05e16?style=for-the-badge&logo=twitter&logoColor=white" />
+              </a>
+            </samp>
+          </td>
+          <td width="20%">
+            <img src="./assets/fire.png" max-height="150"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
       <ul>
         <li>"<em>Do, or do not. There is no try</em>" has been echoing in my head</li>
         <li>learning about computer science, programming, and electronics</li>
         <li>Ask me about anything <a href="https://github.com/corbeau217/corbeau217/issues">here</a></li>
       </ul>
     </td>
-    <td width="20%">
-      <img src="./assets/fire.png" max-height="150"/>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/corbeau217">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbeau217&custom_title=repo%20activity&theme=codeSTACKr" alt="corbeau217's GitHub Contribution" width="99%"/>
+      </a>
     </td>
   </tr>
-</table>
-<hr /><!-- ---------------------------- -->
-<br />
-
-<h2>Stuff I use</h2>
-
-<table width="95%" align="center">
-  <tr>
-    <td width="30%" align="center">
+  <tr align="center">
+    <td>
       <samp>
-        laptop:<br/>
-        <img src="https://img.shields.io/badge/macos-MacBook_Pro_2019-f05e16?style=for-the-badge&logo=apple&logoColor=white"/>
-      </samp>
-    </td>
-    <td width="30%" align="center">
-      <samp>
-        fav languages:<br/>
-        <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=scala&logoColor=white"/>
-      </samp>
-    </td>
-    <td width="30%" align="center">
-      <samp>
-        platforms:<br />
         <img src="https://img.shields.io/badge/Android-ff4500?style=for-the-badge&logo=android&logoColor=white"/>
         <img src="https://img.shields.io/badge/iOS-ff4500?style=for-the-badge&logo=ios&logoColor=white"/>
         <img src="https://img.shields.io/badge/macos-ff4500?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
@@ -116,99 +98,135 @@
       </samp>
     </td>
   </tr>
+  <tr align="center">
+    <td>
+      <samp>
+        <img src="https://img.shields.io/badge/Anaconda-f05e16.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CLion-f05e16?style=for-the-badge&logo=clion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cloudflare-f05e16?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+        <img src="https://img.shields.io/badge/confluence-f05e16.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dreamweaver-f05e16.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dropbox-f05e16.svg?style=for-the-badge&logo=Dropbox&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ESLint-f05e16?style=for-the-badge&logo=eslint&logoColor=white"/>
+        <img src="https://img.shields.io/badge/flask-f05e16.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-f05e16?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github-f05e16.svg?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pages-f05e16?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google%20Drive-f05e16?style=for-the-badge&logo=googledrive&logoColor=white"/>
+        <img src="https://img.shields.io/badge/IDEA-f05e16.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+        <img src="https://img.shields.io/badge/joomla-f05e16.svg?style=for-the-badge&logo=joomla&logoColor=white"/>
+        <img src="https://img.shields.io/badge/jupyter-f05e16.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MDN_Web_Docs-f05e16?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notepad++-f05e16.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=f05e16"/>
+        <img src="https://img.shields.io/badge/node.js-f05e16?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NPM-f05e16.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OneDrive-f05e16.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SAP-f05e16?style=for-the-badge&logo=sap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Trello-f05e16.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VSCode-f05e16?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+      </samp>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table align="center">
+        <tr align="center">
+          <td width="40%">
+            <table align="center">
+              <tr align="center">
+                <td>
+                  <a href="https://github.com/corbeau217/corbeau217">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="corbeau217 readme"/>
+                  </a>
+                </td>
+              </tr>
+              <tr align="center">
+                <td>
+                  <a href="https://github.com/corbeau217/cpp_perlin_grid">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_perlin_grid&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_perlin_grid"/>
+                  </a>
+                </td>
+              </tr>
+              <tr align="center">
+                <td>
+                  <a href="https://github.com/corbeau217/ProceduralCpp">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=ProceduralCpp&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="ProceduralCpp"/>
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="40%">
+            <img src="./assets/busywork.gif"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center">
+      <table align="center">
+        <tr align="center">
+          <td align="center">
+            <a href="https://github.com/corbeau217/cpp_csv_handler">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_csv_handler&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_csv_handler"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/corbeau217/cpp_isometric_grider">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_isometric_grider&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_isometric_grider"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align=center>
+      <a href="https://github.com/corbeau217?tab=repositories" target="_blank">
+        <img alt="view all public repositories" title="view all public repositories" src="https://img.shields.io/badge/-view%20all%20public%20repositories-f05e16?style=for-the-badge&logo=koding&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 </table>
-<hr />
-<p align="center">
-  <samp>
-    resources:<br/>
-    <img src="https://img.shields.io/badge/Anaconda-f05e16.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CLion-f05e16?style=for-the-badge&logo=clion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Cloudflare-f05e16?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-    <img src="https://img.shields.io/badge/confluence-f05e16.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Dreamweaver-f05e16.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Dropbox-f05e16.svg?style=for-the-badge&logo=Dropbox&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ESLint-f05e16?style=for-the-badge&logo=eslint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/flask-f05e16.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-f05e16?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github-f05e16.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pages-f05e16?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Google%20Drive-f05e16?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IDEA-f05e16.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/joomla-f05e16.svg?style=for-the-badge&logo=joomla&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jupyter-f05e16.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MDN_Web_Docs-f05e16?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notepad++-f05e16.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=f05e16"/>
-    <img src="https://img.shields.io/badge/node.js-f05e16?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NPM-f05e16.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OneDrive-f05e16.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SAP-f05e16?style=for-the-badge&logo=sap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Trello-f05e16.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VSCode-f05e16?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  </samp>
-</p>
-</br>
-<hr /><!-- ---------------------------- -->
-
-<!--
-themes:
-  react
-  slateorange
-  codeSTACKr
-  vision-friendly-dark
--->
-<br/>
-
-<h2>Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/corbeau217/corbeau217">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="corbeau217 readme" width="49.5%"/>
-  </a>
-  <a href="https://github.com/corbeau217/cpp_perlin_grid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_perlin_grid&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_perlin_grid" width="49.5%"/>
-  </a>
-  <a href="https://github.com/corbeau217/ProceduralCpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=ProceduralCpp&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="ProceduralCpp" width="49.5%"/>
-  </a>
-  <a href="https://github.com/corbeau217/cpp_csv_handler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_csv_handler&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_csv_handler" width="49.5%"/>
-  </a>
-  <a href="https://github.com/corbeau217/cpp_isometric_grider">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_isometric_grider&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_isometric_grider" width="49.5%"/>
-  </a>
-  <!-- <a href="https://github.com/corbeau217/corbeau217.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217.github.io&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="Corbeau217 Weber Pager" width="99%"/>
-  </a> -->
-</p>
-<p align="center">
-  <a href="https://github.com/corbeau217?tab=repositories" target="_blank"><img alt="view all public repositories" title="view all public repositories" src="https://img.shields.io/badge/-view%20all%20public%20repositories-f05e16?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 <hr /><!-- ---------------------------- -->
 
 <br/>
 
 <h2>My stats</h2>
-<!-- need to crop this gif, it'ss too tall and icky -->
-<!--
-<p align="center">
-  <img src="./assets/3dcoolstats.gif" width="60%" max-height="500"/>
-</p>
--->
 
-<p align="center">
-  <a href="https://github.com/corbeau217">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbeau217&custom_title=repo%20activity&theme=codeSTACKr" alt="corbeau217's GitHub Contribution" width="99%"/>
-  </a>
-  <a href="https://github.com/corbeau217">
-    <img alt="corbeau217's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=corbeau217&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="99%"/>
-  </a>
-  <a href="https://github.com/corbeau217">
-    <img alt="corbeau217's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=corbeau217&show_icons=true&count_private=true&theme=codeSTACKr" width="49.5%"/></a>
-  <a href="https://github.com/corbeau217">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=corbeau217&theme=codeSTACKr" alt="corbeau217's GitHub streak" width="49.5%"/>
-  </a>
-  <br/>
-</p>
+<table width="100%" align="center">
+  <tr align="center">
+    <td align="center">
+      <img src="./assets/3dcoolerstats.gif" max-height="500"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/corbeau217">
+        <img alt="corbeau217's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=corbeau217&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="99%"/>
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <table width="100%" align="center">
+        <tr align="center">
+          <td width="49.5%">
+            <a href="https://github.com/corbeau217">
+              <img alt="corbeau217's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=corbeau217&show_icons=true&count_private=true&theme=codeSTACKr"/>
+            </a>
+          </td>
+          <td width="49.5%">
+            <a href="https://github.com/corbeau217">
+              <img src="https://github-readme-streak-stats.herokuapp.com/?user=corbeau217&theme=codeSTACKr" alt="corbeau217's GitHub streak"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <hr /><!-- ---------------------------- -->
 <br />
