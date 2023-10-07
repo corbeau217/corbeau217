@@ -44,7 +44,7 @@
     <td align="center">
       <table align="center">
         <tr>
-          <td width="70%" align="center">
+          <td width="60%" align="center">
             <samp>
               <!-- <a href="https://www.google.com/search?q=Aurora+Griffith">「 Google Me 」</a> -->
               <br>
@@ -169,12 +169,12 @@
         <tr align="center">
           <td align="center">
             <a href="https://github.com/corbeau217/cpp_csv_handler">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_csv_handler&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_csv_handler"/>
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_csv_handler&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_csv_handler" />
             </a>
           </td>
           <td align="center">
             <a href="https://github.com/corbeau217/cpp_isometric_grider">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_isometric_grider&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_isometric_grider"/>
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_isometric_grider&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_isometric_grider" />
             </a>
           </td>
         </tr>
