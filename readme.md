@@ -5,7 +5,7 @@
 </h2>
 -->
 
-<table align="center">
+<table align="center" width="90%">
   <tr align="center">
     <td>
       <a href="https://github.com/corbeau217">
@@ -188,14 +188,6 @@
       </a>
     </td>
   </tr>
-</table>
-<hr /><!-- ---------------------------- -->
-
-<br/>
-
-<h2>My stats</h2>
-
-<table width="100%" align="center">
   <tr align="center">
     <td align="center">
       <img src="./assets/3dcoolerstats.gif" max-height="500"/>
@@ -226,17 +218,16 @@
       </table>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="./assets/sunrisewindow.gif"/>
+    </td>
+  </tr>
 </table>
 
 <hr /><!-- ---------------------------- -->
 <br />
 <br />
-<p align="center">
-  <img src="./assets/sunrisewindow.gif"/>
-</p>
-<br />
-<br />
-
 <h2>Readme theme data</h2>
 
 <h3 align="center">Colour palette</h3>
