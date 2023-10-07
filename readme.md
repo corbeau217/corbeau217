@@ -165,7 +165,7 @@
   </tr>
   <tr align="center">
     <td align="center">
-      <table align="center">
+      <table align="center" width="80%">
         <tr align="center">
           <td align="center">
             <a href="https://github.com/corbeau217/cpp_csv_handler">
