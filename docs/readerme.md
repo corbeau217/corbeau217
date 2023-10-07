@@ -17,6 +17,8 @@
     <li><code>[07/10/2023][18:26] >> </code><i>finished changing over</i></li>
     <li><code>[07/10/2023][18:33] >> </code><i>formatting updates</i></li>
     <li><code>[07/10/2023][18:37] >> </code><i>why are badges a link?!</i></li>
+    <li><code>[08/10/2023][04:55] >> </code><i>woopsie</i></li>
+    <li><code>[08/10/2023][04:55] >> </code><i>also you should probably remake the repo to get rid of commit history</i></li>
   </ul>
 <!--
 </details>

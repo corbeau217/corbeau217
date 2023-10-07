@@ -1,52 +1,48 @@
 <!--
 <h2 align="center">
-  Welcome to Corbeau217 / Aurora World!
+  Welcome to corbeau217 World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
 
-
 <p align="center">
-  <a href="https://github.com/corbeau217"><img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=300&pause=1000&color=FC6610&center=true&width=520&lines=obsessed+with+systems%20%2F%20low+level+code;how+do+I+purchase+extra+time?"></a>
+  <!-- banner -->
+  <a href="https://github.com/corbeau217">
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=corbeau217&width=650&height=150">
+  </a>
+  <br/>
+  <!-- banner badges-->
+  <a href="https://komarev.com/ghpvc/?username=corbeau217">
+    <img align="right" src="https://komarev.com/ghpvc/?username=corbeau217&label=clicker%20counter&color=007ec6&style=for-the-badge" alt="Profile visitor" />
+  </a>
+  <!-- angery, wont let me change the colour -->
+  <a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437">
+    <img align="left" src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg?style=for-the-badge&color=f05e16&labelColor=f05e16" alt="Total time coded since Oct 7 2023" />
+  </a>
 </p>
+<hr /><!-- ---------------------------- -->
+<p  align="center">
+  <!-- typer scripter -->
+  <a href="https://github.com/corbeau217">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=300&pause=1000&color=ff4500&center=true&width=520&lines=obsessed+with+systems%20%2F%20low+level+code;how+do+I+purchase+extra+time?">
+  </a>
+</p>
+<hr /><!-- ---------------------------- -->
+<br />
+<br />
 
-
-<a href="https://komarev.com/ghpvc/?username=corbeau217">
-  <img align="right" src="https://komarev.com/ghpvc/?username=corbeau217&label=Visitors&color=fc6610&style=for-the-badge" alt="Profile visitor" />
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg)](https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437)
-
-<a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437"><img src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg" alt="Total time coded since Oct 7 2023" /></a>
-
-<!-- [![wakatime](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg)](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437) -->
-<!-- [![wakatime](https://wakatime.com/share/@corbeau217/d7a663d4-4cdd-4814-b30e-4ba29a405a5e.svg)](https://wakatime.com/badge/user/d7a663d4-4cdd-4814-b30e-4ba29a405a5e) -->
-<!-- [![wakatime](https://wakatime.com/share/@corbeau217/c8d0504c-0b5e-4748-b92b-a976a10e6e8d.svg)](https://wakatime.com/share/@corbeau217/c8d0504c-0b5e-4748-b92b-a976a10e6e8d) -->
-
-<!-- [![wakatime](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437/project/018b08b8-309e-4f19-a3f1-4d195764e35d.svg)](https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437/project/018b08b8-309e-4f19-a3f1-4d195764e35d) -->
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://corbeau217.github.io">Corbeau217 / Aurora</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
+<!-- About Section -->
+<h1>About me</h1>
+<p align="center">
   <samp>
     <!-- <a href="https://www.google.com/search?q=Aurora+Griffith">「 Google Me 」</a> -->
     <br>
-    「 I am a Software Engineering student in <b>Sydney AUS</b> 」
+    Software Engineering student in <b>Sydney AUS</b>
     <br>
+    They / Them
   </samp>
 </p>
 
-<!-- 
-oranges:
-  f05e16
-  ff6610
--->
 <p align="center">
  <!-- <a href="https://corbeau217.github.io" target="blank">
   <img src="https://img.shields.io/badge/website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="corbeau217" />
@@ -57,112 +53,234 @@ oranges:
  <a href="https://twitter.com/corbeau217" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-f05e16?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <!-- dont have this -->
- <!-- <a href="https://dev.to/corbeau217" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="corbeau217" />
- </a> -->
- <!-- dont have this -->
- <!-- <a href="https://instagram.com/corbeau217_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="corbeau217" />
- </a>  -->
- <!-- not including it -->
- <!-- <a href="https://facebook.com/corbeau217.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="corbeau217"  />
-  </a>  -->
 </p>
+<!--
+  try this thingy: https://github.com/bradysheridan/spotify-activity-listener/tree/master
+  probably can https://www.last.fm/api/account/create
+  with cloudflare??
+  or https://github.com/VinuXD/Spotify-ReadMe
+  heroku is icky and wants bank card details
+  nice try heroku
+  https://developer.spotify.com/dashboard/create
+-->
+<!--
+  another: https://github.com/Gust4Oliveira/Last.fm-Discord-Rich-Presence
+-->
+
+
+<table width="100%" align="center">
+  <tr>
+    <td width="70%">
+      <ul>
+        <li>"<em>Do, or do not. There is no try</em>" has been echoing in my head</li>
+        <li>learning about computer science, programming, and electronics</li>
+        <li>Ask me about anything <a href="https://github.com/corbeau217/corbeau217/issues">here</a></li>
+      </ul>
+    </td>
+    <td width="20%">
+      <img src="./assets/fire.png" max-height="150"/>
+    </td>
+  </tr>
+</table>
+<hr /><!-- ---------------------------- -->
 <br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <!-- need to get one -->
- <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
-  
- "*Do, or do not. There is no try*" has been echoing in my head<br/><br/>
- ❤️ &emsp; Love to learn about computer science, programming, and electronics<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/corbeau217/corbeau217/issues)
- <!-- 📧 &emsp; Reach me anytime: corbeau217.dev@gmail.com<br/><br/> -->
-</p>
-<br/>
-
-## Use To Code
-
-![Macbook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2019-f05e16?style=for-the-badge&logo=apple&logoColor=white)
-
----
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
-![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Pages](https://img.shields.io/badge/pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![IDEA](https://img.shields.io/badge/IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
----
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Win](https://img.shields.io/badge/7/8.1/10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![95](https://img.shields.io/badge/95-008484?style=for-the-badge&logo=windows95&logoColor=white)
-![XP](https://img.shields.io/badge/xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
-
----
-
-<!-- slateorange -->
-<!-- https://camo.githubusercontent.com/c658fbcdb94ac424e949fd9b03767e5cc7373be4ede4b7d64b77ce1363fb9cef/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d736c6174656f72616e6765 -->
-<br/>
-
-## Projects
-[![ProceduralCpp](https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=ProceduralCpp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/corbeau217/ProceduralCpp)
-[![cpp_perlin_grid](https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_perlin_grid&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/corbeau217/cpp_perlin_grid)
-[![cpp_csv_handler](https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_csv_handler&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/corbeau217/cpp_csv_handler)
-[![cpp_isometric_grider](https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_isometric_grider&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/corbeau217/cpp_isometric_grider)
-[![Corbeau217 Readme](https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/corbeau217/corbeau217)
-<!-- soon(tm) -->
-<!-- [![Corbeau217 Weber](https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/corbeau217/corbeau217.github.io) -->
-
-<p align="left">
-  <a href="https://github.com/corbeau217?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<p align="center">
+  <img src="./assets/sunrisewindow.gif"/>
 </p>
 
+<h2>Stuff I use</h2>
+
+<p align="center">
+  <samp>
+    laptop:<br/>
+    <img src="https://img.shields.io/badge/macos-MacBook_Pro_2019-f05e16?style=for-the-badge&logo=apple&logoColor=white"/>
+  </samp>
+</p>
+<hr />
+<p align="center">
+  fav languages:<br/>
+  <samp>
+    <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ff4500.svg?style=for-the-badge&logo=scala&logoColor=white"/>
+  </samp>
+</p>
+<hr />
+<p align="center">
+  <samp>
+    resources:<br/>
+    <img src="https://img.shields.io/badge/Anaconda-f05e16.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CLion-f05e16?style=for-the-badge&logo=clion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cloudflare-f05e16?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+    <img src="https://img.shields.io/badge/confluence-f05e16.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dreamweaver-f05e16.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dropbox-f05e16.svg?style=for-the-badge&logo=Dropbox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ESLint-f05e16?style=for-the-badge&logo=eslint&logoColor=white"/>
+    <img src="https://img.shields.io/badge/flask-f05e16.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-f05e16?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github-f05e16.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pages-f05e16?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google%20Drive-f05e16?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IDEA-f05e16.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/joomla-f05e16.svg?style=for-the-badge&logo=joomla&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jupyter-f05e16.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MDN_Web_Docs-f05e16?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notepad++-f05e16.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=f05e16"/>
+    <img src="https://img.shields.io/badge/node.js-f05e16?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NPM-f05e16.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OneDrive-f05e16.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SAP-f05e16?style=for-the-badge&logo=sap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Trello-f05e16.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VSCode-f05e16?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  </samp>
+</p>
+<hr />
+<p align="center">
+  platforms:<br />
+  <samp>
+    <img src="https://img.shields.io/badge/Android-ff4500?style=for-the-badge&logo=android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/iOS-ff4500?style=for-the-badge&logo=ios&logoColor=white"/>
+    <img src="https://img.shields.io/badge/macos-ff4500?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+    <img src="https://img.shields.io/badge/Ubuntu-ff4500?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/7/8.1/10-ff4500?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/95-ff4500?style=for-the-badge&logo=windows95&logoColor=white"/>
+    <img src="https://img.shields.io/badge/xp-ff4500?style=for-the-badge&logo=windowsxp&logoColor=white"/>
+  </samp>
+</p>
+</br>
+<hr /><!-- ---------------------------- -->
+
+<!--
+themes:
+  react
+  slateorange
+  codeSTACKr
+  vision-friendly-dark
+-->
 <br/>
-<hr/>
+
+<h2>Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/corbeau217/corbeau217">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="corbeau217 readme" width="49.5%"/>
+  </a>
+  <a href="https://github.com/corbeau217/cpp_perlin_grid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_perlin_grid&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_perlin_grid" width="49.5%"/>
+  </a>
+  <a href="https://github.com/corbeau217/ProceduralCpp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=ProceduralCpp&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="ProceduralCpp" width="49.5%"/>
+  </a>
+  <a href="https://github.com/corbeau217/cpp_csv_handler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_csv_handler&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_csv_handler" width="49.5%"/>
+  </a>
+  <a href="https://github.com/corbeau217/cpp_isometric_grider">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_isometric_grider&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_isometric_grider" width="49.5%"/>
+  </a>
+  <!-- <a href="https://github.com/corbeau217/corbeau217.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217.github.io&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="Corbeau217 Weber Pager" width="99%"/>
+  </a> -->
+</p>
+<p align="center">
+  <a href="https://github.com/corbeau217?tab=repositories" target="_blank"><img alt="view all public repositories" title="view all public repositories" src="https://img.shields.io/badge/-view%20all%20public%20repositories-f05e16?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+<hr /><!-- ---------------------------- -->
+
 <br/>
+
+<h2>My stats</h2>
+<!-- need to crop this gif, it'ss too tall and icky -->
+<!--
+<p align="center">
+  <img src="./assets/3dcoolstats.gif" width="60%" max-height="500"/>
+</p>
+-->
 
 <p align="center">
   <a href="https://github.com/corbeau217">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=corbeau217&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbeau217&custom_title=repo%20activity&theme=codeSTACKr" alt="corbeau217's GitHub Contribution" width="99%"/>
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/corbeau217">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbeau217&theme=radical" alt="Corbeau217 / Aurora's GitHub Contribution"/>
+    <img alt="corbeau217's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=corbeau217&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="99%"/>
   </a>
-</p>
-<p> 
-    <a href="https://github.com/corbeau217"><img alt="Corbeau217 / Aurora's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=corbeau217&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/corbeau217"><img alt="Corbeau217 / Aurora's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=corbeau217&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/corbeau217">
+    <img alt="corbeau217's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=corbeau217&show_icons=true&count_private=true&theme=codeSTACKr" width="49.5%"/></a>
+  <a href="https://github.com/corbeau217">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=corbeau217&theme=codeSTACKr" alt="corbeau217's GitHub streak" width="49.5%"/>
+  </a>
   <br/>
 </p>
 
-![Aurora's Graph](https://github-readme-activity-graph.vercel.app/graph?username=corbeau217&custom_title=Aurora's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<hr /><!-- ---------------------------- -->
+<br />
+<br />
+<br />
+<br />
+
+<h2>Readme theme data</h2>
+
+<h3 align="center">Colour palette</h3>
+<p align="center">
+  <!-- used colours -->
+  <img alt="color code: dd571c" title="color code: dd571c" src="https://img.shields.io/badge/-▇-dd571c?style=for-the-badge&logoColor=white"/>
+  <img alt="color code: f05e16" title="color code: f05e16" src="https://img.shields.io/badge/-▇-f05e16?style=for-the-badge&logoColor=white"/>
+  <img alt="color code: 007ec6" title="color code: 007ec6" src="https://img.shields.io/badge/-▇-007ec6?style=for-the-badge&logoColor=white"/>
+  <img alt="color code: 1d1717" title="color code: 1d1717" src="https://img.shields.io/badge/-▇-1d1717?style=for-the-badge&logoColor=white"/>
+  <br />
+  <details align="center">
+    <summary><i>show / hide all</i></summary>
+    <!-- oranges -->
+    <img alt="color code: ff4500" title="color code: ff4500" src="https://img.shields.io/badge/-▇-ff4500?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: fd6a02" title="color code: fd6a02" src="https://img.shields.io/badge/-▇-fd6a02?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: ff7417" title="color code: ff7417" src="https://img.shields.io/badge/-▇-ff7417?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: fc6600" title="color code: fc6600" src="https://img.shields.io/badge/-▇-fc6600?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: ec9706" title="color code: ec9706" src="https://img.shields.io/badge/-▇-ec9706?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: f05e16" title="color code: f05e16" src="https://img.shields.io/badge/-▇-f05e16?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: ff6610" title="color code: ff6610" src="https://img.shields.io/badge/-▇-ff6610?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: dd571c" title="color code: dd571c" src="https://img.shields.io/badge/-▇-dd571c?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: b2560d" title="color code: b2560d" src="https://img.shields.io/badge/-▇-b2560d?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 8d4004" title="color code: 8d4004" src="https://img.shields.io/badge/-▇-8d4004?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 80400b" title="color code: 80400b" src="https://img.shields.io/badge/-▇-80400b?style=for-the-badge&logoColor=white"/>
+    <br/>
+    <!-- greys -->
+    <img alt="color code: 1d1717" title="color code: 1d1717" src="https://img.shields.io/badge/-▇-1d1717?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 232023" title="color code: 232023" src="https://img.shields.io/badge/-▇-232023?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 322d31" title="color code: 322d31" src="https://img.shields.io/badge/-▇-322d31?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 3e3636" title="color code: 3e3636" src="https://img.shields.io/badge/-▇-3e3636?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 564c4d" title="color code: 564c4d" src="https://img.shields.io/badge/-▇-564c4d?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 59515e" title="color code: 59515e" src="https://img.shields.io/badge/-▇-59515e?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 5d5555" title="color code: 5d5555" src="https://img.shields.io/badge/-▇-5d5555?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 787276" title="color code: 787276" src="https://img.shields.io/badge/-▇-787276?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: ded4d4" title="color code: ded4d4" src="https://img.shields.io/badge/-▇-ded4d4?style=for-the-badge&logoColor=white"/>
+    <br/>
+    <!-- redss -->
+    <img alt="color code: d0312d" title="color code: d0312d" src="https://img.shields.io/badge/-▇-d0312d?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: e3242b" title="color code: e3242b" src="https://img.shields.io/badge/-▇-e3242b?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 990f02" title="color code: 990f02" src="https://img.shields.io/badge/-▇-990f02?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 900603" title="color code: 900603" src="https://img.shields.io/badge/-▇-900603?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 710c04" title="color code: 710c04" src="https://img.shields.io/badge/-▇-710c04?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 680c07" title="color code: 680c07" src="https://img.shields.io/badge/-▇-680c07?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 610c04" title="color code: 610c04" src="https://img.shields.io/badge/-▇-610c04?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 541e1b" title="color code: 541e1b" src="https://img.shields.io/badge/-▇-541e1b?style=for-the-badge&logoColor=white"/>
+    <br/>
+    <!-- blues -->
+    <img alt="color code: 3944bc" title="color code: 3944bc" src="https://img.shields.io/badge/-▇-3944bc?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 0a1172" title="color code: 0a1172" src="https://img.shields.io/badge/-▇-0a1172?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 281e5d" title="color code: 281e5d" src="https://img.shields.io/badge/-▇-281e5d?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 1338be" title="color code: 1338be" src="https://img.shields.io/badge/-▇-1338be?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 016064" title="color code: 016064" src="https://img.shields.io/badge/-▇-016064?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 2832c2" title="color code: 2832c2" src="https://img.shields.io/badge/-▇-2832c2?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 59788e" title="color code: 59788e" src="https://img.shields.io/badge/-▇-59788e?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 29c5f6" title="color code: 29c5f6" src="https://img.shields.io/badge/-▇-29c5f6?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 3a9bdc" title="color code: 3a9bdc" src="https://img.shields.io/badge/-▇-3a9bdc?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 5579c6" title="color code: 5579c6" src="https://img.shields.io/badge/-▇-5579c6?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 1260cc" title="color code: 1260cc" src="https://img.shields.io/badge/-▇-1260cc?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 0080fe" title="color code: 0080fe" src="https://img.shields.io/badge/-▇-0080fe?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 669ef5" title="color code: 669ef5" src="https://img.shields.io/badge/-▇-669ef5?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 008ecc" title="color code: 008ecc" src="https://img.shields.io/badge/-▇-008ecc?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 1c2951" title="color code: 1c2951" src="https://img.shields.io/badge/-▇-1c2951?style=for-the-badge&logoColor=white"/>
+    <img alt="color code: 007ec6" title="color code: 007ec6" src="https://img.shields.io/badge/-▇-007ec6?style=for-the-badge&logoColor=white"/><!-- this one is colour dropper from screenshot of the wakatime since we cant change it -->
+  </details>
+  <br />
+</p>
+<hr /><!-- ---------------------------- -->
