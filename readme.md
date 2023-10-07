@@ -7,16 +7,16 @@
 
 <table align="center" width="90%">
   <tr align="center">
-    <td>
+    <td align="center">
       <a href="https://github.com/corbeau217">
         <img src="https://svg-banners.vercel.app/api?type=glitch&text1=corbeau217&width=650&height=150">
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
+  <tr align="center">
+    <td align="center">
+      <table align="center">
+        <tr align="center">
           <td width="40%">
             <a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437">
               <img src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg?style=for-the-badge&color=f05e16&labelColor=f05e16" alt="Total time coded since Oct 7 2023" />
@@ -33,16 +33,16 @@
       </table>
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr align="center">
+    <td align="center">
       <a href="https://github.com/corbeau217">
         <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=300&pause=1000&color=ff4500&center=true&width=520&lines=obsessed+with+systems%20%2F%20low+level+code;how+do+I+purchase+extra+time?">
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <table width="100%" align="center">
+  <tr align="center">
+    <td align="center">
+      <table align="center">
         <tr>
           <td width="70%" align="center">
             <samp>
@@ -70,7 +70,7 @@
     </td>
   </tr>
   <tr align="center">
-    <td>
+    <td align="center">
       <ul>
         <li>"<em>Do, or do not. There is no try</em>" has been echoing in my head</li>
         <li>learning about computer science, programming, and electronics</li>
@@ -79,14 +79,14 @@
     </td>
   </tr>
   <tr align="center">
-    <td>
+    <td align="center">
       <a href="https://github.com/corbeau217">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbeau217&custom_title=repo%20activity&theme=codeSTACKr" alt="corbeau217's GitHub Contribution" width="99%"/>
       </a>
     </td>
   </tr>
   <tr align="center">
-    <td>
+    <td align="center">
       <samp>
         <img src="https://img.shields.io/badge/Android-ff4500?style=for-the-badge&logo=android&logoColor=white"/>
         <img src="https://img.shields.io/badge/iOS-ff4500?style=for-the-badge&logo=ios&logoColor=white"/>
@@ -99,7 +99,7 @@
     </td>
   </tr>
   <tr align="center">
-    <td>
+    <td align="center">
       <samp>
         <img src="https://img.shields.io/badge/Anaconda-f05e16.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
         <img src="https://img.shields.io/badge/CLion-f05e16?style=for-the-badge&logo=clion&logoColor=white"/>
@@ -127,28 +127,28 @@
       </samp>
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr align="center">
+    <td align="center">
       <table align="center">
         <tr align="center">
-          <td width="40%">
+          <td align="center">
             <table align="center">
               <tr align="center">
-                <td>
+                <td align="center">
                   <a href="https://github.com/corbeau217/corbeau217">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="corbeau217 readme"/>
                   </a>
                 </td>
               </tr>
               <tr align="center">
-                <td>
+                <td align="center">
                   <a href="https://github.com/corbeau217/cpp_perlin_grid">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_perlin_grid&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_perlin_grid"/>
                   </a>
                 </td>
               </tr>
               <tr align="center">
-                <td>
+                <td align="center">
                   <a href="https://github.com/corbeau217/ProceduralCpp">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=ProceduralCpp&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="ProceduralCpp"/>
                   </a>
@@ -156,8 +156,8 @@
               </tr>
             </table>
           </td>
-          <td width="40%">
-            <img src="./assets/busywork.gif"/>
+          <td>
+            <img src="./assets/busywork.gif" width="400"/>
           </td>
         </tr>
       </table>
@@ -181,7 +181,7 @@
       </table>
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td align=center>
       <a href="https://github.com/corbeau217?tab=repositories" target="_blank">
         <img alt="view all public repositories" title="view all public repositories" src="https://img.shields.io/badge/-view%20all%20public%20repositories-f05e16?style=for-the-badge&logo=koding&logoColor=white"/>
@@ -194,22 +194,22 @@
     </td>
   </tr>
   <tr align="center">
-    <td>
+    <td align="center">
       <a href="https://github.com/corbeau217">
         <img alt="corbeau217's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=corbeau217&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="99%"/>
       </a>
     </td>
   </tr>
   <tr align="center">
-    <td>
-      <table width="100%" align="center">
+    <td align="center">
+      <table align="center">
         <tr align="center">
-          <td width="49.5%">
+          <td align="center">
             <a href="https://github.com/corbeau217">
               <img alt="corbeau217's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=corbeau217&show_icons=true&count_private=true&theme=codeSTACKr"/>
             </a>
           </td>
-          <td width="49.5%">
+          <td align="center">
             <a href="https://github.com/corbeau217">
               <img src="https://github-readme-streak-stats.herokuapp.com/?user=corbeau217&theme=codeSTACKr" alt="corbeau217's GitHub streak"/>
             </a>
@@ -218,8 +218,8 @@
       </table>
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr align="center">
+    <td align="center">
       <img src="./assets/sunrisewindow.gif"/>
     </td>
   </tr>
