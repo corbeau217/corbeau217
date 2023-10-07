@@ -15,6 +15,7 @@
     <li><code>[07/10/2023][16:10] >> </code><i>generated repository with <code>readerme.md</code></i></li>
     <li><code>[07/10/2023][16:10] >> </code><i>began changing over to my details</i></li>
     <li><code>[07/10/2023][18:26] >> </code><i>finished changing over</i></li>
+    <li><code>[07/10/2023][18:33] >> </code><i>formatting updates</i></li>
   </ul>
 <!--
 </details>
