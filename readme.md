@@ -81,7 +81,7 @@
   <tr align="center">
     <td align="center">
       <a href="https://github.com/corbeau217">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbeau217&custom_title=repo%20activity&theme=codeSTACKr" alt="corbeau217's GitHub Contribution" width="99%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbeau217&custom_title=repo%20activity&theme=codeSTACKr" alt="corbeau217's GitHub Contribution" width="80%"/>
       </a>
     </td>
   </tr>
