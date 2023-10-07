@@ -133,7 +133,7 @@
         <tr align="center">
           <td align="center">
             <table align="center">
-              <tr align="center">
+              <tr align="center" width="80%">
                 <td align="center">
                   <a href="https://github.com/corbeau217/corbeau217">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="corbeau217 readme"/>
@@ -227,8 +227,6 @@
 
 <hr /><!-- ---------------------------- -->
 <br />
-<br />
-<h2>Readme theme data</h2>
 
 <h3 align="center">Colour palette</h3>
 <p align="center">
