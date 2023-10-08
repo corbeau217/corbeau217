@@ -5,7 +5,7 @@
 </h2>
 -->
 
-<table align="center" width="80%">
+<table align="center">
   <tr align="center">
     <td align="center">
       <a href="https://github.com/corbeau217">
@@ -42,7 +42,7 @@
   </tr>
   <tr align="center">
     <td align="center">
-      <table align="center" width="80%">
+      <table align="center">
         <tr>
           <td align="center" width="60%">
             <samp>
