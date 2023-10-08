@@ -8,22 +8,13 @@
   <a href="https://github.com/corbeau217">
     <img src="https://svg-banners.vercel.app/api?type=glitch&text1=corbeau217&width=650&height=150" width="80%">
   </a>
-  <table align="center">
-    <tr align="center">
-      <td align="center">
-        <a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437">
-          <img src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg?style=for-the-badge&color=f05e16&labelColor=f05e16" alt="Total time coded since Oct 7 2023" />
-        </a>
-      </td>
-      <td align="center">
-      </td>
-      <td align="center">
-        <a href="https://komarev.com/ghpvc/?username=corbeau217">
-          <img src="https://komarev.com/ghpvc/?username=corbeau217&label=clicker%20counter&color=007ec6&style=for-the-badge" alt="Profile visitor" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437">
+    <img src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg?style=for-the-badge&color=f05e16&labelColor=f05e16" alt="Total time coded since Oct 7 2023" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=corbeau217">
+    <img src="https://komarev.com/ghpvc/?username=corbeau217&label=clicker%20counter&color=007ec6&style=for-the-badge" alt="Profile visitor" />
+  </a>
+  <br/>
   <a href="https://github.com/corbeau217">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=300&pause=1000&color=ff4500&center=true&width=520&lines=obsessed+with+systems%20%2F%20low+level+code;how+do+I+purchase+extra+time?" width="80%">
   </a>
@@ -60,7 +51,8 @@
   <a href="https://github.com/corbeau217">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbeau217&custom_title=repo%20activity&theme=codeSTACKr" alt="corbeau217's GitHub Contribution" width="80%"/>
   </a>
-  <samp>
+  <br/>
+  <samp align="center">
     <img src="https://img.shields.io/badge/Android-ff4500?style=for-the-badge&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/iOS-ff4500?style=for-the-badge&logo=ios&logoColor=white"/>
     <img src="https://img.shields.io/badge/macos-ff4500?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
@@ -69,7 +61,7 @@
     <img src="https://img.shields.io/badge/95-ff4500?style=for-the-badge&logo=windows95&logoColor=white"/>
     <img src="https://img.shields.io/badge/xp-ff4500?style=for-the-badge&logo=windowsxp&logoColor=white"/>
   </samp>
-  <samp>
+  <samp align="center">
     <img src="https://img.shields.io/badge/Anaconda-f05e16.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
     <img src="https://img.shields.io/badge/CLion-f05e16?style=for-the-badge&logo=clion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cloudflare-f05e16?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
