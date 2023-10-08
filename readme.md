@@ -9,7 +9,7 @@
   <tr align="center">
     <td align="center">
       <a href="https://github.com/corbeau217">
-        <img src="https://svg-banners.vercel.app/api?type=glitch&text1=corbeau217&width=650&height=150">
+        <img src="https://svg-banners.vercel.app/api?type=glitch&text1=corbeau217&width=650&height=150" width="80%">
       </a>
     </td>
   </tr>
@@ -36,15 +36,15 @@
   <tr align="center">
     <td align="center">
       <a href="https://github.com/corbeau217">
-        <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=300&pause=1000&color=ff4500&center=true&width=520&lines=obsessed+with+systems%20%2F%20low+level+code;how+do+I+purchase+extra+time?">
+        <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=300&pause=1000&color=ff4500&center=true&width=520&lines=obsessed+with+systems%20%2F%20low+level+code;how+do+I+purchase+extra+time?" width="80%">
       </a>
     </td>
   </tr>
   <tr align="center">
     <td align="center">
-      <table align="center">
+      <table align="center" width="80%">
         <tr>
-          <td width="60%" align="center">
+          <td align="center" width="60%">
             <samp>
               <!-- <a href="https://www.google.com/search?q=Aurora+Griffith">「 Google Me 」</a> -->
               <br>
@@ -132,32 +132,18 @@
       <table align="center">
         <tr align="center">
           <td align="center">
-            <table align="center">
-              <tr align="center" width="80%">
-                <td align="center">
-                  <a href="https://github.com/corbeau217/corbeau217">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="corbeau217 readme"/>
-                  </a>
-                </td>
-              </tr>
-              <tr align="center">
-                <td align="center">
-                  <a href="https://github.com/corbeau217/cpp_perlin_grid">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_perlin_grid&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_perlin_grid"/>
-                  </a>
-                </td>
-              </tr>
-              <tr align="center">
-                <td align="center">
-                  <a href="https://github.com/corbeau217/ProceduralCpp">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=ProceduralCpp&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="ProceduralCpp"/>
-                  </a>
-                </td>
-              </tr>
-            </table>
+            <a href="https://github.com/corbeau217/corbeau217">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="corbeau217 readme" width="80%"/>
+            </a>
+            <a href="https://github.com/corbeau217/cpp_perlin_grid">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_perlin_grid&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_perlin_grid" width="80%"/>
+            </a>
+            <a href="https://github.com/corbeau217/ProceduralCpp">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=ProceduralCpp&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="ProceduralCpp" width="80%"/>
+            </a>
           </td>
           <td>
-            <img src="./assets/busywork.gif" width="400"/>
+            <img src="./assets/busywork.gif" width="90%"/>
           </td>
         </tr>
       </table>
@@ -165,20 +151,12 @@
   </tr>
   <tr align="center">
     <td align="center">
-      <table align="center" width="80%">
-        <tr align="center">
-          <td align="center">
-            <a href="https://github.com/corbeau217/cpp_csv_handler">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_csv_handler&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_csv_handler" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://github.com/corbeau217/cpp_isometric_grider">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_isometric_grider&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_isometric_grider" />
-            </a>
-          </td>
-        </tr>
-      </table>
+      <a href="https://github.com/corbeau217/cpp_csv_handler">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_csv_handler&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_csv_handler" width="40%" />
+      </a>
+      <a href="https://github.com/corbeau217/cpp_isometric_grider">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_isometric_grider&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_isometric_grider" width="40%" />
+      </a>
     </td>
   </tr>
   <tr align="center">
@@ -195,27 +173,13 @@
   </tr>
   <tr align="center">
     <td align="center">
-      <a href="https://github.com/corbeau217">
-        <img alt="corbeau217's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=corbeau217&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="99%"/>
-      </a>
+      <img alt="corbeau217's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=corbeau217&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="80%"/>
     </td>
   </tr>
   <tr align="center">
     <td align="center">
-      <table align="center">
-        <tr align="center">
-          <td align="center">
-            <a href="https://github.com/corbeau217">
-              <img alt="corbeau217's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=corbeau217&show_icons=true&count_private=true&theme=codeSTACKr"/>
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://github.com/corbeau217">
-              <img src="https://github-readme-streak-stats.herokuapp.com/?user=corbeau217&theme=codeSTACKr" alt="corbeau217's GitHub streak"/>
-            </a>
-          </td>
-        </tr>
-      </table>
+      <img alt="corbeau217's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=corbeau217&show_icons=true&count_private=true&theme=codeSTACKr" width="40%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=corbeau217&theme=codeSTACKr" alt="corbeau217's GitHub streak" width="40%"/>
     </td>
   </tr>
   <tr align="center">
