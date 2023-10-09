@@ -19,6 +19,7 @@
     <li><code>[07/10/2023][18:37] >> </code><i>why are badges a link?!</i></li>
     <li><code>[08/10/2023][04:55] >> </code><i>woopsie</i></li>
     <li><code>[08/10/2023][04:55] >> </code><i>also you should probably remake the repo to get rid of commit history</i></li>
+    <li><code>[09/10/2023][19:00] >> </code><i>fixed formatting to be centered and correctly spaced</i></li>
   </ul>
 <!--
 </details>
