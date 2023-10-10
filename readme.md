@@ -47,15 +47,15 @@
     </tr>
   </table>
   <!-- ---------------------------------- -->
-  <br />
-  <p align="center">
-    <a href="https://linkedin.com/in/auroragriffith95" target="_blank">
+  <!-- <br /> -->
+  <!-- <p align="center"> -->
+    <!-- <a href="https://linkedin.com/in/auroragriffith95" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-f05e16?style=for-the-badge&logo=linkedin&logoColor=white" alt="corbeau217"/>
-    </a>
-    <a href="https://twitter.com/corbeau217" target="_blank">
+    </a> -->
+    <!-- <a href="https://twitter.com/corbeau217" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-f05e16?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-  </p>
+    </a> -->
+  <!-- </p> -->
   <br />
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbeau217&custom_title=repo%20activity&theme=codeSTACKr" alt="corbeau217's GitHub Contribution" width="80%"/>
