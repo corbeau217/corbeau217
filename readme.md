@@ -35,8 +35,9 @@
           <br />
           <br />
           <ul>
-            <li>"<em>Do, or do not. There is no try</em>" has been echoing in my head</li>
-            <li>learning about computer science, programming, and electronics</li>
+            <li>"<em>impatience for victory will guarantee defeat</em>"</li>
+            <li>"<em>Do, or do not. There is no try</em>"</li>
+            <li>"<em>The absurd merely confers an equivalence on the consequences of those actions. It does not recommend crime, for this would be childish, but it restores to remorse its futility. Likewise, if all experiences are indifferent, that of duty is as legitimate as any other. One can be virtuous through a whim.</em>"</li>
             <li>Ask me about anything <a href="https://github.com/corbeau217/corbeau217/issues">here</a></li>
           </ul>
         </samp>
