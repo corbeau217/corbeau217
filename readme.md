@@ -1,14 +1,8 @@
-<!--
-<h2 align="center">
-  Welcome to corbeau217 World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
 <samp align="center">
   <!-- ---------------------------------- -->
   <!-- ----------- banner gif ----------- -->
   <p align="center">
-    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=corbeau217&width=650&height=150" width="80%">
+    <a href="http://corbeau217.github.io"><img src="https://svg-banners.vercel.app/api?type=glitch&text1=corbeau217&width=650&height=150" width="80%"></a>
   </p>
   <!-- ---------------------------------- -->
   <!-- ------- wakatime / counter ------- -->
@@ -16,13 +10,13 @@
     <a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437">
       <img src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg?style=for-the-badge&color=f05e16&labelColor=f05e16" alt="Total time coded since Oct 7 2023" />
     </a>
-    <a href="https://komarev.com/ghpvc/?username=corbeau217">
+    <a href="http://corbeau217.github.io">
       <img src="https://komarev.com/ghpvc/?username=corbeau217&label=clicker%20counter&color=007ec6&style=for-the-badge" alt="Profile visitor" />
     </a>
   </p>
   <!-- ---------------------------------- -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=300&pause=1000&color=ff4500&center=true&width=520&lines=obsessed+with+systems%20%2F%20low+level+code;how+do+I+purchase+extra+time?" width="80%">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&weight=300&pause=1000&color=ff4500&center=true&width=520&lines=why+is+a+duck?;because+one+leg+both+the+same;if+you+had,;moms+spaghetti;would+you+capture+it?;or+just+let+it+slip?" width="80%">
   </p>
   <!-- ---------------------------------- -->
   <table align="center">
@@ -37,8 +31,7 @@
           <ul>
             <li>"<em>impatience for victory will guarantee defeat</em>"</li>
             <li>"<em>Do, or do not. There is no try</em>"</li>
-            <li>"<em>The absurd merely confers an equivalence on the consequences of those actions. It does not recommend crime, for this would be childish, but it restores to remorse its futility. Likewise, if all experiences are indifferent, that of duty is as legitimate as any other. One can be virtuous through a whim.</em>"</li>
-            <li>Ask me about anything <a href="https://github.com/corbeau217/corbeau217/issues">here</a></li>
+            <li>"<em>You don’t love yourself enough. Or you’d love your nature too, and what it demands of you.</em>"</li>
           </ul>
         </samp>
       </td>
@@ -48,15 +41,6 @@
     </tr>
   </table>
   <!-- ---------------------------------- -->
-  <!-- <br /> -->
-  <!-- <p align="center"> -->
-    <!-- <a href="https://linkedin.com/in/auroragriffith95" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-f05e16?style=for-the-badge&logo=linkedin&logoColor=white" alt="corbeau217"/>
-    </a> -->
-    <!-- <a href="https://twitter.com/corbeau217" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-f05e16?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a> -->
-  <!-- </p> -->
   <br />
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbeau217&custom_title=repo%20activity&theme=codeSTACKr" alt="corbeau217's GitHub Contribution" width="80%"/>
@@ -109,8 +93,8 @@
         <a href="https://github.com/corbeau217/cpp_perlin_grid">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_perlin_grid&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_perlin_grid" width="80%"/>
         </a>
-        <a href="https://github.com/corbeau217/ProceduralCpp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=ProceduralCpp&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="ProceduralCpp" width="80%"/>
+        <a href="https://github.com/corbeau217/mixed_orrery">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=mixed_orrery&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="mixed_orrery" width="80%"/>
         </a>
       </td>
       <td>
@@ -119,11 +103,11 @@
     </tr>
   </table>
   <p align="center">
-    <a href="https://github.com/corbeau217/cpp_csv_handler">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_csv_handler&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_csv_handler" width="40%" />
+    <a href="https://github.com/corbeau217/scala_AoC_2023">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=scala_AoC_2023&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="scala_AoC_2023" width="40%" />
     </a>
-    <a href="https://github.com/corbeau217/cpp_isometric_grider">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=cpp_isometric_grider&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="cpp_isometric_grider" width="40%" />
+    <a href="https://github.com/corbeau217/processing_toys">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=processing_toys&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="processing_toys" width="40%" />
     </a>
     <br />
     <a href="https://github.com/corbeau217?tab=repositories" target="_blank">
