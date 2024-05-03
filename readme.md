@@ -3,9 +3,7 @@
   <table align="center">
     <tr>
       <td width="79%" align="center">
-        <a href="https://corbeau.site/">
-          <h2><b>CORBEAU217</b></h2>
-        </a>
+        <h2><b><a href="https://corbeau.site/">CORBEAU217</a></b></h2>
         Software Engineering student in <b>Sydney AUS</b>
         <br />
         <br />
