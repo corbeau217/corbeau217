@@ -20,6 +20,9 @@
     <li><code>[08/10/2023][04:55] >> </code><i>woopsie</i></li>
     <li><code>[08/10/2023][04:55] >> </code><i>also you should probably remake the repo to get rid of commit history</i></li>
     <li><code>[09/10/2023][19:00] >> </code><i>fixed formatting to be centered and correctly spaced</i></li>
+    <!-- May 3rd, 2024 2:45 PM -->
+    <li><code>[03/05/2024][14:45] >> </code><i>bigg restructure</i></li>
+    <li><code>[08/05/2024][13:45] >> </code><i>fixed up links</i></li>
   </ul>
 <!--
 </details>

@@ -9,11 +9,11 @@
         <br />
         They / Them
         <hr /> <!-- ---------------- -->
-        <a href="https://wakatime.com/@018b08ae-3eb8-4326-bd58-0017702d0437">
+        <a href="https://wakatime.com/@corbeau217">
           <img src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg?style=for-the-badge&color=f05e16&labelColor=f05e16" alt="Total time coded since Oct 7 2023" />
         </a>
         <a href="http://corbeau217.github.io">
-          <img src="https://komarev.com/ghpvc/?username=corbeau217&label=profile%20views&color=007ec6&style=for-the-badge" alt="Profile visitor" />
+          <img src="https://komarev.com/ghpvc/?username=corbeau217&label=profile%20views&color=orange&style=for-the-badge" alt="Profile visitor" />
         </a>
         <hr /> <!-- ---------------- -->
         <img src="https://img.shields.io/badge/VSCode-f05e16?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
@@ -54,6 +54,9 @@
         <a href="https://github.com/corbeau217/processing_toys">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=processing_toys&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="processing_toys" width="32%" />
         </a>
+        <a href="https://github.com/corbeau217/corbeau217.github.io/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=corbeau217&repo=corbeau217.github.io&border_color=dd571c&bg_color=1d1717&title_color=C9D1D9&text_color=8B949E&icon_color=dd571c" alt="processing_toys" width="32%" />
+        </a>
       </td>
     </tr>
   </table>
@@ -68,7 +71,9 @@
     <img src="./assets/3dcoolerstats.gif" width="80%"/>
   </p>
   <p align="center">
-    <img alt="corbeau217's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=corbeau217&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="80%"/>
+    <a href="https://wakatime.com/@corbeau217">
+      <img alt="corbeau217's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=corbeau217&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="80%" />
+    </a>
   </p>
   <hr /><!-- ---------------------------- -->
   <p align="center">
