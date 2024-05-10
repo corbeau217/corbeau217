@@ -12,9 +12,6 @@
         <a href="https://wakatime.com/@corbeau217">
           <img src="https://wakatime.com/badge/user/018b08ae-3eb8-4326-bd58-0017702d0437.svg?style=for-the-badge&color=f05e16&labelColor=f05e16" alt="Total time coded since Oct 7 2023" />
         </a>
-        <a href="http://corbeau217.github.io">
-          <img src="https://komarev.com/ghpvc/?username=corbeau217&label=profile%20views&color=orange&style=for-the-badge" alt="Profile visitor" />
-        </a>
         <hr /> <!-- ---------------- -->
         <img src="https://img.shields.io/badge/VSCode-f05e16?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
         <img src="https://img.shields.io/badge/macos-ff4500?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
