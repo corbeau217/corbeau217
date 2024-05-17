@@ -6,6 +6,8 @@
         <h2><b><a href="https://corbeau.site/">CORBEAU217</a></b></h2>
         Software Engineering student in <b>Sydney AUS</b>
         <br />
+        <a href="https://en.wikipedia.org/wiki/Kruskal%27s_tree_theorem">[big tree conspiracy]</a>
+        <br />
         <br />
         They / Them
         <hr /> <!-- ---------------- -->
