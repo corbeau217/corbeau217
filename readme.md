@@ -4,9 +4,12 @@
     <tr>
       <td width="79%" align="center">
         <h2><b><a href="https://corbeau.site/">CORBEAU217</a></b></h2>
-        Software Engineering student in <b>Sydney AUS</b>
-        <br />
-        <a href="https://en.wikipedia.org/wiki/Kruskal%27s_tree_theorem">[big tree conspiracy]</a>
+        <h4>Software Development student in <i>Sydney, Australia</i></h4>
+        <!-- .... -->
+        <b>focus of study:</b><br />
+        <em><a href="https://en.wikipedia.org/wiki/Embedded_system">Embedded Systems</a></em><br />
+        <em><a href="https://en.wikipedia.org/wiki/Computer_graphics_(computer_science)">Computer Graphics</a></em><br />
+        <!-- .... -->
         <br />
         <br />
         They / Them
